@@ -1,0 +1,501 @@
+placeID,name,address,city,state,zip,price
+132608,Hamburguesas La perica,524 Soledad de Graciano Sanchez,Jiutepec,San Luis Potosi,78210,low
+132608,Hamburguesas La perica,69 Tres De Mayo,s.l.p,SLP,78214,low
+132608,Hamburguesas La perica,40 Norte Civac 1RA. Seccion,Cuernavaca,san luis potos,78200,low
+132609,Pollo_Frito_Buenos_Aires,tampico,victoria,Tamaulipas,62790,low
+132609,Pollo_Frito_Buenos_Aires,69 Tres De Mayo,s.l.p,mexico,62290,low
+132609,Pollo_Frito_Buenos_Aires,Mexico 810 Centro,victoria,Tamaulipas,78214,low
+132870,Tortas y hamburguesas el gordo,Ricardo B. Anaya,San Luis Potosi,San Luis Potosi,62790,low
+132870,Tortas y hamburguesas el gordo,Ricardo B. Anaya,San Luis Potosi,San Luis Potosi,64000,low
+132870,Tortas y hamburguesas el gordo,Ricardo B. Anaya,San Luis Potosi,San Luis Potosi,74000,low
+132885,Hamburguesas saul,Tangamanga 7 Tangamanga,san luis potosi ,mexico,78433,low
+132885,Hamburguesas saul,tampico,San Luis Potosi,Tamaulipas,78430,low
+132885,Hamburguesas saul,Universidad 169,slp,mexico,78740,low
+132921,crudalia,40 Norte Civac 1RA. Seccion,Cuernavaca,Morelos,62170,low
+132921,crudalia,524 Soledad de Graciano Sanchez,Jiutepec,S.L.P.,62250,low
+132921,crudalia,36 Sur Civac,Ciudad Victoria,mexico,62000,low
+132667,little pizza Emilio Portes Gil,av. seminario,Cd. Victoria,mexico,62790,low
+132667,little pizza Emilio Portes Gil,avenida hivno nacional,Cuernavaca,tamaulipas,62790,low
+132667,little pizza Emilio Portes Gil,Av. V. Carranza,Ciudad Victoria,S.L.P.,64000,low
+134976,Log Yin,Nereo Rodriguez Barragan 450 E Centro,Cuernavaca,mexico,78280,low
+134976,Log Yin,Pascual M. Hernandez 210 Centro,s.l.p,Morelos,78310,low
+134976,Log Yin,Paseo de las Fuentes,san luis potos,SLP,78390,low
+134976,Log Yin,r.b. anaya esq. florencia,san luis potosi ,mexico,78396,low
+134976,Log Yin,Plaza del Carmen,San Luis Potosi,Tamaulipas,78395,low
+134976,Log Yin,Miguel Barragan 46 Centro,Cd. Victoria,Morelos,78269,low
+134976,Log Yin,NICOLAS ZAPATA 300,Jiutepec,mexico,78290,low
+134976,Log Yin,Ricardo B. Anaya,Soledad,Morelos,78421,low
+134976,Log Yin,Pascual M. Hernandez 240,s.l.p.,S.L.P.,78349,low
+134976,Log Yin,Munoz Sn Centro,Ciudad Victoria,S.L.P.,78270,low
+134976,Log Yin,Rayon sn col. Centro,slp,mexico,78399,low
+134976,Log Yin,Mexico 810 Centro,Cd Victoria,mexico,78250,low
+132937,rockabilly ,agustin de iturbide,san luis potosi,san luis potosi,62170,low
+132937,rockabilly ,agustin de iturbide,san luis potosi,san luis potosi,62000,low
+132937,rockabilly ,Constitucion 200 Centro,san luis potosi,san luis potosi,62000,low
+132951,VIPS,Cuauhtemoc 455,San Luis Potosi,San Luis Potosi,78000,low
+132951,VIPS,De La Estrella 2005 Estrella de Oriente,San Luis Potosi,San Luis Potosi,78200,low
+132951,VIPS,De Guadalupe 460 San Miguelito,San Luis Potosi,San Luis Potosi,78038,low
+132955,emilianos,Santos Degollado 745 los Alamitos,san luis potos,S.L.P.,78421,low
+132955,emilianos,Rayon sn col. Centro,san luis potos,S.L.P.,78310,low
+132955,emilianos,sevilla y olmedo 715 a,san luis potos,Tamaulipas,78433,low
+132955,emilianos,Pascual M. Hernandez 240,san luis potos,S.L.P.,78269,low
+132955,emilianos,Ricardo B. Anaya 2700 Estrella de Oriente,san luis potos,mexico,78390,low
+132955,emilianos,Pascual M. Hernandez 210 Centro,victoria ,Morelos,78250,low
+132955,emilianos,Paseo de las Fuentes,san luis potos,mexico,78270,low
+132955,emilianos,Ricardo B. Anaya,san luis potos,SLP,78349,low
+132955,emilianos,Plaza del Carmen,san luis potos,mexico,78280,low
+132955,emilianos,Rio Mayo Colonia Vista Hermosa Esq. Rio Balsas,san luis potos,S.L.P.,78396,low
+132955,emilianos,Rio Papaloapan 265 Lomas de San Luis (3),san luis potos,Morelos,78399,low
+132955,emilianos,r.b. anaya esq. florencia,san luis potos,Morelos,78290,low
+132955,emilianos,Soledad Sn Arboledas de Soledad,san luis potos,mexico,78740,low
+132955,emilianos,Satelite 606 Satelite,san luis potos,SLP,78430,low
+132955,emilianos,Rio Mayo 17 Vista Hermosa,san luis potos,Morelos,78395,low
+132958,tacos los volcanes,Estatuto Juridico 1040 Burocratas,san luis potosi,san luis potos,78270,low
+132958,tacos los volcanes,Ignacio Allende 785 Centro,san luis potosi,san luis potos,78433,low
+132958,tacos los volcanes,frente al tecnologico,san luis potosi,san luis potos,78349,low
+132958,tacos los volcanes,Interior Internado Palmira SN,san luis potosi,san luis potos,79300,low
+132958,tacos los volcanes,Francisco I. Madero 145 Centro,san luis potosi,san luis potos,78290,low
+132958,tacos los volcanes,Ignacio Aldama 300 Centro,san luis potosi,san luis potos,78430,low
+132958,tacos los volcanes,General Mariano Arista 1205 Barrio de Tequisquiap,san luis potosi,san luis potos,78390,low
+132958,tacos los volcanes,Himno Nacional 2104 Tangamanga,san luis potosi,san luis potos,78399,low
+132958,tacos los volcanes,Himno nacional esq. Blvd. Juarez,san luis potosi,san luis potos,78421,low
+132958,tacos los volcanes,Federal Mexico - Acapulco 10 3 de Mayo,san luis potosi,san luis potos,78280,low
+132958,tacos los volcanes,esquina santos degollado y leon guzman,san luis potosi,san luis potos,78269,low
+132958,tacos los volcanes,Himno Nacional 100 Avenida,san luis potosi,san luis potos,78396,low
+132958,tacos los volcanes,Francisco I. Madero 215,san luis potosi,san luis potos,78310,low
+132958,tacos los volcanes,Industrias 908 Valle Dorado,san luis potosi,san luis potos,78740,low
+132958,tacos los volcanes,Guajardo Sn San Luis Potosi Centro,san luis potosi,san luis potos,78395,low
+135013,Giovannis,Domingo 10 711 El Empleado,Jiutepec,Morelos,62170,low
+135013,Giovannis,Emiliano Zapata Col. Tres de Mayo,Jiutepec,Morelos,62250,low
+135013,Giovannis,40 Norte Civac 1RA. Seccion,Jiutepec,Morelos,62790,low
+132715,tacos de la estacion,Lateral Salvador Nava Martinez 3145,Cd Victoria,S.L.P.,78740,low
+132715,tacos de la estacion,lic. Emilio portes gil,Ciudad Victoria,Morelos,87018,low
+132715,tacos de la estacion,Libramiento Burgos Colonia Las Animas,Cd. Victoria,mexico,79300,low
+135021,Subway,Venustiano Carranza 2175 Jardin,Cuernavaca,Tamaulipas,78290,low
+135021,Subway,Venustiano Carranza 303 Centro,Cuernavaca,mexico,78310,low
+135021,Subway,Venustiano Carranza 560 Centro,Cuernavaca,mexico,78349,low
+132732,Taqueria EL amigo ,Agricultura 595 del Valle,s.l.p.,Tamaulipas,78220,low
+132732,Taqueria EL amigo ,agustin de iturbide,san luis potos,Tamaulipas,78240,low
+132732,Taqueria EL amigo ,Alhondiga 62 Centro,San Luis Potosi,Tamaulipas,78250,low
+135039,Restaurant de Mariscos de Picon,Lateral Salvador Nava Martinez 3145,San Luis Potosi,SLP,74000,low
+135039,Restaurant de Mariscos de Picon,Libramiento Burgos Colonia Las Animas,San Luis Potosi,SLP,78000,low
+135039,Restaurant de Mariscos de Picon,lic. Emilio portes gil,San Luis Potosi,SLP,78038,low
+132740,Carreton de Flautas y Migadas,Satelite 606 Satelite,s.l.p,Morelos,78396,low
+132740,Carreton de Flautas y Migadas,sevilla y olmedo 715 a,s.l.p.,S.L.P.,78399,low
+132740,Carreton de Flautas y Migadas,Santos Degollado 745 los Alamitos,Jiutepec,mexico,78395,low
+135051,Restaurante Versalles,Av. Coral,San Luis Potosi,SLP,78214,low
+135051,Restaurante Versalles,Francisco I. Madero 145 Centro,San Luis Potosi,SLP,78000,low
+135051,Restaurante Versalles,Soledad Sn Arboledas de Soledad,san luis potos,SLP,78421,low
+135069,Abondance Restaurante Bar,agustin de iturbide,san luis potos,SLP,62250,low
+135069,Abondance Restaurante Bar,Alhondiga 62 Centro,San Luis Potosi,SLP,62290,low
+135069,Abondance Restaurante Bar,Anahuac 805,san luis potosi ,SLP,78280,low
+132773,El cotorreo,Plaza del Carmen,Cuernavaca,Morelos,78310,low
+132773,El cotorreo,Ricardo B. Anaya,Cuernavaca,Morelos,78395,low
+132773,El cotorreo,Paseo de las Fuentes,Cuernavaca,Morelos,78290,low
+132773,El cotorreo,r.b. anaya esq. florencia,Cuernavaca,Morelos,78349,low
+132773,El cotorreo,Pascual M. Hernandez 240,Cuernavaca,Morelos,78280,low
+132773,El cotorreo,Rayon sn col. Centro,Cuernavaca,Morelos,78390,low
+135088,Cafeteria cenidet,Federal Mexico - Acapulco 10 3 de Mayo,Cuernavaca,Morelos,62790,low
+135088,Cafeteria cenidet,Lomas del Mirador,Cuernavaca,S.L.P.,62790,low
+135088,Cafeteria cenidet,Francisco I. Madero 145 Centro,Cuernavaca,Morelos,64000,low
+132560,puesto de gorditas,frente al tecnologico,victoria,tamaulipas,78421,low
+132560,puesto de gorditas,Rio Mayo Colonia Vista Hermosa Esq. Rio Balsas,victoria,tamaulipas,78220,low
+132560,puesto de gorditas,Zaragoza entre Francisco Zarco y Lopez Velarde,victoria,tamaulipas,78399,low
+132825,puesto de tacos,Munoz Sn Centro,san luis potos,S.L.P.,78038,low
+132825,puesto de tacos,Mexico 810 Centro,s.l.p,mexico,74000,low
+132825,puesto de tacos,Miguel Barragan 46 Centro,s.l.p.,Morelos,78000,low
+132572,Cafe Chaires,Tangamanga 7 Tangamanga,San Luis Potosi,S.L.P.,87018,low
+132572,Cafe Chaires,tampico,San Luis Potosi,Morelos,79300,low
+132572,Cafe Chaires,Universidad 169,San Luis Potosi,mexico,62790,low
+132834,Gorditas Doa Gloria,Cordillera de Los Alpes 675 Loma Verde,victoria ,san luis potosi,64000,low
+132834,Gorditas Doa Gloria,Costado Sur Central Camionera Km 2,san luis potosi,san luis potosi,74000,low
+132834,Gorditas Doa Gloria,Rio Papaloapan 265 Lomas de San Luis (3),Cuernavaca,mexico,78390,low
+132583,McDonalds Centro,lic. Emilio portes gil,Cuernavaca,Morelos,78214,low
+132583,McDonalds Centro,Mexico 2015 Providencia,Cuernavaca,Morelos,78240,low
+132583,McDonalds Centro,Lomas del Mirador,Cuernavaca,Morelos,78220,low
+132583,McDonalds Centro,Libramiento Burgos Colonia Las Animas,Cuernavaca,Morelos,78210,low
+132846,el lechon potosino ,circuito oriente esq. carretera 57,san luis potosi ,slp,62170,low
+132846,el lechon potosino ,circuito oriente esq. carretera 57,san luis potosi ,slp,62000,low
+132846,el lechon potosino ,circuito oriente esq. carretera 57,san luis potosi ,slp,62250,low
+132847,don burguers,r.b. anaya esq. florencia,slp,slp,62290,low
+132847,don burguers,r.b. anaya esq. florencia,slp,slp,62250,low
+132847,don burguers,r.b. anaya esq. florencia,slp,slp,62320,low
+132594,tacos de barbacoa enfrente del Tec,Ricardo B. Anaya 2700 Estrella de Oriente,Cd Victoria,mexico,78396,low
+132594,tacos de barbacoa enfrente del Tec,69 Tres De Mayo,s.l.p,SLP,62000,low
+132594,tacos de barbacoa enfrente del Tec,Agricultura 595 del Valle,s.l.p.,Tamaulipas,62170,low
+132851,KFC,Camino a Simon Diaz 155 Centro,San Luis Potosi,San Luis Potosi,78280,low
+132851,KFC,calle emilio portes gil,San Luis Potosi,San Luis Potosi,64000,low
+132851,KFC,avenida hivno nacional,San Luis Potosi,San Luis Potosi,62460,low
+132851,KFC,carr. mexico,San Luis Potosi,San Luis Potosi,78290,low
+132851,KFC,Calle Mezquite Fracc Framboyanes,San Luis Potosi,San Luis Potosi,62790,low
+132851,KFC,avenida salvador montiel ,San Luis Potosi,San Luis Potosi,62790,low
+132856,Unicols Pizza,Anahuac 805,San Luis Potosi,San Luis Potosi,78270,low
+132856,Unicols Pizza,Alhondiga 62 Centro,San Luis Potosi,San Luis Potosi,78269,low
+132856,Unicols Pizza,Angel Veral 328 Altamira,San Luis Potosi,San Luis Potosi,78280,low
+132858,Hamburguesas Valle Dorado,Av. Carranza 830,Soledad,San Luis Potosi,78280,low
+132858,Hamburguesas Valle Dorado,Anahuac 805,san luis potosi ,San Luis Potosi,78269,low
+132858,Hamburguesas Valle Dorado,Angel Veral 328 Altamira,slp,San Luis Potosi,78270,low
+132875,shi ro ie,Mexico 2015 Providencia,san luis potos,mexico,78038,high
+132875,shi ro ie,La Pradera,Ciudad Victoria,Tamaulipas,87018,high
+132875,shi ro ie,Lomas del Mirador,s.l.p.,S.L.P.,78000,high
+132875,shi ro ie,Ignacio Aldama 300 Centro,?,S.L.P.,78399,high
+132875,shi ro ie,Julian de Los Reyes 400 Centro,Cd. Victoria,SLP,79300,high
+132875,shi ro ie,Lateral Salvador Nava Martinez 3145,Cuernavaca,mexico,62790,high
+132875,shi ro ie,Mexico 810 Centro,San Luis Potosi,S.L.P.,78200,high
+132875,shi ro ie,Ignacio Allende 785 Centro,?,mexico,78421,high
+132875,shi ro ie,Interior Internado Palmira SN,?,Morelos,78433,high
+132875,shi ro ie,Himno Nacional 2104 Tangamanga,?,mexico,78395,high
+132875,shi ro ie,Jesus Goytortua 390 Tangamanga,Cd Victoria,S.L.P.,78740,high
+132875,shi ro ie,Libramiento Burgos Colonia Las Animas,Jiutepec,mexico,64000,high
+132875,shi ro ie,lic. Emilio portes gil,s.l.p,Morelos,74000,high
+132875,shi ro ie,Himno nacional esq. Blvd. Juarez,?,Morelos,78396,high
+132875,shi ro ie,Industrias 908 Valle Dorado,?,mexico,78430,high
+134975,Rincon del Bife,1a. de Lozada 1,Cd Victoria,mexico,78210,high
+134975,Rincon del Bife,lic. Emilio portes gil,San Luis Potosi,Tamaulipas,78395,high
+134975,Rincon del Bife,36 Sur Civac,Ciudad Victoria,S.L.P.,78269,high
+134975,Rincon del Bife,20 de Noviembre 1817 Tlaxcala,Cd. Victoria,Morelos,78214,high
+134975,Rincon del Bife,40 Norte Civac 1RA. Seccion,Cuernavaca,mexico,78270,high
+134975,Rincon del Bife,Agricultura 595 del Valle,s.l.p.,S.L.P.,78421,high
+134975,Rincon del Bife,La Pradera,s.l.p,Morelos,78310,high
+134975,Rincon del Bife,69 Tres De Mayo,s.l.p,Morelos,78399,high
+134975,Rincon del Bife,Libramiento Burgos Colonia Las Animas,san luis potos,SLP,78390,high
+134975,Rincon del Bife,Lateral Salvador Nava Martinez 3145,s.l.p.,S.L.P.,78349,high
+134975,Rincon del Bife,524 Soledad de Graciano Sanchez,Jiutepec,mexico,78280,high
+134975,Rincon del Bife,agustin de iturbide,san luis potos,SLP,78430,high
+134983,Restaurant and Bar and Clothesline Carlos N Charlies,Domingo 10 711 El Empleado,Cuernavaca,Morelos,78399,high
+134983,Restaurant and Bar and Clothesline Carlos N Charlies,Domingo 10 711 El Empleado,Cuernavaca,Morelos,78740,high
+134983,Restaurant and Bar and Clothesline Carlos N Charlies,Domingo 10 711 El Empleado,Cuernavaca,Morelos,78433,high
+134983,Restaurant and Bar and Clothesline Carlos N Charlies,Domingo 10 711 El Empleado,Cuernavaca,Morelos,78430,high
+134983,Restaurant and Bar and Clothesline Carlos N Charlies,Domingo 10 711 El Empleado,Cuernavaca,Morelos,78390,high
+134983,Restaurant and Bar and Clothesline Carlos N Charlies,Domingo 10 711 El Empleado,Cuernavaca,Morelos,78421,high
+134983,Restaurant and Bar and Clothesline Carlos N Charlies,Domingo 10 711 El Empleado,Cuernavaca,Morelos,79300,high
+134983,Restaurant and Bar and Clothesline Carlos N Charlies,Domingo 10 711 El Empleado,Cuernavaca,Morelos,78396,high
+134983,Restaurant and Bar and Clothesline Carlos N Charlies,Domingo 10 711 El Empleado,Cuernavaca,Morelos,78395,high
+134983,Restaurant and Bar and Clothesline Carlos N Charlies,Domingo 10 711 El Empleado,Cuernavaca,Morelos,87018,high
+134983,Restaurant and Bar and Clothesline Carlos N Charlies,Domingo 10 711 El Empleado,Cuernavaca,Morelos,62250,high
+134992,Restaurant Teely,Ignacio Aldama 300 Centro,Cuernavaca,Morelos,78240,high
+134992,Restaurant Teely,De La Estrella 2005 Estrella de Oriente,Cuernavaca,Morelos,62000,high
+134992,Restaurant Teely,De Guadalupe 460 San Miguelito,Cuernavaca,Morelos,78421,high
+134992,Restaurant Teely,Cuauhtemoc 455,Cuernavaca,Morelos,78399,high
+134992,Restaurant Teely,Himno nacional esq. Blvd. Juarez,Cuernavaca,Morelos,78220,high
+134992,Restaurant Teely,General Mariano Arista 1205 Barrio de Tequisquiap,Cuernavaca,Morelos,78038,high
+134992,Restaurant Teely,Himno Nacional 2104 Tangamanga,Cuernavaca,Morelos,78214,high
+134992,Restaurant Teely,Himno Nacional 100 Avenida,Cuernavaca,Morelos,78210,high
+134992,Restaurant Teely,Guajardo Sn San Luis Potosi Centro,Cuernavaca,Morelos,78200,high
+135035,El Mundo de la Pasta,venustiano carranza,San Luis Potosi,SLP,79300,high
+135035,El Mundo de la Pasta,Venustiano Carranza 2175 Jardin,San Luis Potosi,SLP,78210,high
+135035,El Mundo de la Pasta,Venustiano Carranza 303 Centro,San Luis Potosi,SLP,78210,high
+135035,El Mundo de la Pasta,Rio Papaloapan 265 Lomas de San Luis (3),San Luis Potosi,SLP,78210,high
+135035,El Mundo de la Pasta,Villa de Pozos 192 Villa de Pozos,San Luis Potosi,SLP,78210,high
+135035,El Mundo de la Pasta,Venustiano Carranza 560 Centro,San Luis Potosi,SLP,78210,high
+135035,El Mundo de la Pasta,Venustiano Carranza 1625 Jardin,San Luis Potosi,SLP,87018,high
+135035,El Mundo de la Pasta,Venustiano Carranza 719 Centro,San Luis Potosi,SLP,78210,high
+135035,El Mundo de la Pasta,Venustiano Carranza 1809 C Polanco,San Luis Potosi,SLP,78210,high
+135040,Restaurant los Compadres,Camino a Simon Diaz 155 Centro,San Luis Potosi,SLP,74000,high
+135040,Restaurant los Compadres,Camino a Simon Diaz 155 Centro,San Luis Potosi,SLP,62320,high
+135040,Restaurant los Compadres,Camino a Simon Diaz 155 Centro,San Luis Potosi,SLP,62460,high
+135040,Restaurant los Compadres,Camino a Simon Diaz 155 Centro,San Luis Potosi,SLP,62790,high
+135040,Restaurant los Compadres,Camino a Simon Diaz 155 Centro,San Luis Potosi,SLP,64000,high
+135040,Restaurant los Compadres,Camino a Simon Diaz 155 Centro,San Luis Potosi,SLP,78200,high
+135040,Restaurant los Compadres,Camino a Simon Diaz 155 Centro,San Luis Potosi,SLP,78038,high
+135040,Restaurant los Compadres,Camino a Simon Diaz 155 Centro,San Luis Potosi,SLP,78000,high
+135040,Restaurant los Compadres,Camino a Simon Diaz 155 Centro,San Luis Potosi,SLP,62290,high
+135045,Restaurante la Gran Via,Venustiano Carranza 560 Centro,San Luis Potosi,SLP,78269,high
+135045,Restaurante la Gran Via,Venustiano Carranza 560 Centro,San Luis Potosi,SLP,78240,high
+135045,Restaurante la Gran Via,Venustiano Carranza 560 Centro,San Luis Potosi,SLP,78250,high
+135045,Restaurante la Gran Via,Venustiano Carranza 560 Centro,San Luis Potosi,SLP,78000,high
+135045,Restaurante la Gran Via,Venustiano Carranza 560 Centro,San Luis Potosi,SLP,78270,high
+135047,Restaurante Casa de las Flores,General Mariano Arista 1205 Barrio de Tequisquiap,San Luis Potosi,SLP,78310,high
+135047,Restaurante Casa de las Flores,General Mariano Arista 1205 Barrio de Tequisquiap,San Luis Potosi,SLP,87018,high
+135047,Restaurante Casa de las Flores,frente al tecnologico,San Luis Potosi,SLP,78000,high
+135047,Restaurante Casa de las Flores,Francisco I. Madero 215,San Luis Potosi,SLP,74000,high
+135047,Restaurante Casa de las Flores,Emiliano Zapata No. 825 Tlaltenongo,San Luis Potosi,SLP,78740,high
+135048,Restaurante Bar Fu-hao,Jesus Goytortua 390 Tangamanga,San Luis Potosi,SLP,78290,high
+135048,Restaurante Bar Fu-hao,Jesus Goytortua 390 Tangamanga,San Luis Potosi,SLP,78310,high
+135048,Restaurante Bar Fu-hao,Jesus Goytortua 390 Tangamanga,San Luis Potosi,SLP,78240,high
+135048,Restaurante Bar Fu-hao,Jesus Goytortua 390 Tangamanga,San Luis Potosi,SLP,78250,high
+135048,Restaurante Bar Fu-hao,Jesus Goytortua 390 Tangamanga,San Luis Potosi,SLP,78220,high
+135048,Restaurante Bar Fu-hao,Jesus Goytortua 390 Tangamanga,San Luis Potosi,SLP,78214,high
+135048,Restaurante Bar Fu-hao,Jesus Goytortua 390 Tangamanga,San Luis Potosi,SLP,78280,high
+135048,Restaurante Bar Fu-hao,Jesus Goytortua 390 Tangamanga,San Luis Potosi,SLP,78270,high
+135048,Restaurante Bar Fu-hao,Jesus Goytortua 390 Tangamanga,San Luis Potosi,SLP,78210,high
+135048,Restaurante Bar Fu-hao,Jesus Goytortua 390 Tangamanga,San Luis Potosi,SLP,78038,high
+135048,Restaurante Bar Fu-hao,Jesus Goytortua 390 Tangamanga,San Luis Potosi,SLP,78200,high
+135048,Restaurante Bar Fu-hao,Jesus Goytortua 390 Tangamanga,San Luis Potosi,SLP,78269,high
+135050,Restaurante la Estrella de Dima,Soledad Sn Arboledas de Soledad,Soledad,SLP,78430,high
+135052,La Cantina Restaurante,Venustiano Carranza 1625 Jardin,victoria,S.L.P.,87018,high
+135052,La Cantina Restaurante,Ignacio Aldama 300 Centro,San Luis Potosi,SLP,78740,high
+135052,La Cantina Restaurante,Ignacio Aldama 300 Centro,San Luis Potosi,SLP,79300,high
+135052,La Cantina Restaurante,venustiano carranza,Soledad,Morelos,79300,high
+135052,La Cantina Restaurante,Villa de Pozos 192 Villa de Pozos,San Luis Potosi,SLP,78310,high
+135052,La Cantina Restaurante,Ignacio Aldama 300 Centro,San Luis Potosi,SLP,78396,high
+135052,La Cantina Restaurante,Ignacio Aldama 300 Centro,San Luis Potosi,SLP,78433,high
+135052,La Cantina Restaurante,Ignacio Aldama 300 Centro,San Luis Potosi,SLP,78430,high
+135052,La Cantina Restaurante,Venustiano Carranza 2175 Jardin,San Luis Potosi,S.L.P.,64000,high
+135052,La Cantina Restaurante,Ignacio Aldama 300 Centro,San Luis Potosi,SLP,78421,high
+135052,La Cantina Restaurante,Venustiano Carranza 719 Centro,San Luis Potosi,SLP,78290,high
+135052,La Cantina Restaurante,Venustiano Carranza 1809 C Polanco,victoria ,mexico,62790,high
+135052,La Cantina Restaurante,Venustiano Carranza 303 Centro,San Luis Potosi,SLP,78214,high
+135052,La Cantina Restaurante,Villa de Pozos 4497 Villa de Pozos,San Luis Potosi,SLP,78349,high
+135052,La Cantina Restaurante,Zaragoza entre Francisco Zarco y Lopez Velarde,San Luis Potosi,SLP,78390,high
+135052,La Cantina Restaurante,Ignacio Aldama 300 Centro,San Luis Potosi,SLP,78399,high
+135052,La Cantina Restaurante,Ignacio Aldama 300 Centro,San Luis Potosi,SLP,78395,high
+135052,La Cantina Restaurante,Venustiano Carranza 560 Centro,San Luis Potosi,SLP,78280,high
+135053,La Fontana Pizza Restaurante and Cafe,Satelite 606 Satelite,San Luis Potosi,SLP,78349,high
+135053,La Fontana Pizza Restaurante and Cafe,Satelite 606 Satelite,San Luis Potosi,SLP,78433,high
+135053,La Fontana Pizza Restaurante and Cafe,Satelite 606 Satelite,San Luis Potosi,SLP,78396,high
+135053,La Fontana Pizza Restaurante and Cafe,Satelite 606 Satelite,San Luis Potosi,SLP,78399,high
+135053,La Fontana Pizza Restaurante and Cafe,Satelite 606 Satelite,San Luis Potosi,SLP,78421,high
+135053,La Fontana Pizza Restaurante and Cafe,Satelite 606 Satelite,San Luis Potosi,SLP,78740,high
+135053,La Fontana Pizza Restaurante and Cafe,Satelite 606 Satelite,San Luis Potosi,SLP,78390,high
+135053,La Fontana Pizza Restaurante and Cafe,Satelite 606 Satelite,San Luis Potosi,SLP,87018,high
+135053,La Fontana Pizza Restaurante and Cafe,Satelite 606 Satelite,San Luis Potosi,SLP,78395,high
+135053,La Fontana Pizza Restaurante and Cafe,Satelite 606 Satelite,San Luis Potosi,SLP,78430,high
+135053,La Fontana Pizza Restaurante and Cafe,Satelite 606 Satelite,San Luis Potosi,SLP,62460,high
+135053,La Fontana Pizza Restaurante and Cafe,Satelite 606 Satelite,San Luis Potosi,SLP,79300,high
+135054,Restaurante y Pescaderia Tampico,Ricardo B. Anaya 2700 Estrella de Oriente,San Luis Potosi,SLP,78280,high
+135054,Restaurante y Pescaderia Tampico,Ricardo B. Anaya 2700 Estrella de Oriente,San Luis Potosi,SLP,78421,high
+135054,Restaurante y Pescaderia Tampico,Ricardo B. Anaya 2700 Estrella de Oriente,San Luis Potosi,SLP,78269,high
+135054,Restaurante y Pescaderia Tampico,Ricardo B. Anaya 2700 Estrella de Oriente,San Luis Potosi,SLP,78433,high
+135054,Restaurante y Pescaderia Tampico,Ricardo B. Anaya 2700 Estrella de Oriente,San Luis Potosi,SLP,78210,high
+135054,Restaurante y Pescaderia Tampico,Ricardo B. Anaya 2700 Estrella de Oriente,San Luis Potosi,SLP,78214,high
+135054,Restaurante y Pescaderia Tampico,Ricardo B. Anaya 2700 Estrella de Oriente,San Luis Potosi,SLP,78399,high
+135054,Restaurante y Pescaderia Tampico,Ricardo B. Anaya 2700 Estrella de Oriente,San Luis Potosi,SLP,78270,high
+135054,Restaurante y Pescaderia Tampico,Ricardo B. Anaya 2700 Estrella de Oriente,San Luis Potosi,SLP,78430,high
+135055,la Cochinita Pibil Restaurante Yucateco,Ricardo B. Anaya,San Luis Potosi,SLP,78200,high
+135055,la Cochinita Pibil Restaurante Yucateco,Rio Mayo Colonia Vista Hermosa Esq. Rio Balsas,San Luis Potosi,SLP,78269,high
+135055,la Cochinita Pibil Restaurante Yucateco,Pascual M. Hernandez 210 Centro,San Luis Potosi,SLP,62460,high
+135055,la Cochinita Pibil Restaurante Yucateco,Pascual M. Hernandez 240,San Luis Potosi,SLP,62790,high
+135055,la Cochinita Pibil Restaurante Yucateco,Rio Mayo 17 Vista Hermosa,San Luis Potosi,SLP,78214,high
+135055,la Cochinita Pibil Restaurante Yucateco,Ricardo B. Anaya 2700 Estrella de Oriente,San Luis Potosi,SLP,78210,high
+135055,la Cochinita Pibil Restaurante Yucateco,NICOLAS ZAPATA 300,San Luis Potosi,SLP,62320,high
+135055,la Cochinita Pibil Restaurante Yucateco,Plaza del Carmen,San Luis Potosi,SLP,74000,high
+135055,la Cochinita Pibil Restaurante Yucateco,Rayon sn col. Centro,San Luis Potosi,SLP,78038,high
+135055,la Cochinita Pibil Restaurante Yucateco,Paseo de las Fuentes,San Luis Potosi,SLP,64000,high
+135055,la Cochinita Pibil Restaurante Yucateco,Rio Papaloapan 265 Lomas de San Luis (3),San Luis Potosi,SLP,78270,high
+135055,la Cochinita Pibil Restaurante Yucateco,r.b. anaya esq. florencia,San Luis Potosi,SLP,78000,high
+135064,Restaurante El Chivero S.A. de C.V.,Angel Veral 328 Altamira,San Luis Potosi,SLP,78000,high
+135064,Restaurante El Chivero S.A. de C.V.,Angel Veral 328 Altamira,San Luis Potosi,SLP,78038,high
+135064,Restaurante El Chivero S.A. de C.V.,Angel Veral 328 Altamira,San Luis Potosi,SLP,74000,high
+135064,Restaurante El Chivero S.A. de C.V.,Angel Veral 328 Altamira,San Luis Potosi,SLP,62790,high
+135064,Restaurante El Chivero S.A. de C.V.,Angel Veral 328 Altamira,San Luis Potosi,SLP,64000,high
+135064,Restaurante El Chivero S.A. de C.V.,Angel Veral 328 Altamira,San Luis Potosi,SLP,62290,high
+135064,Restaurante El Chivero S.A. de C.V.,Angel Veral 328 Altamira,San Luis Potosi,SLP,62460,high
+135064,Restaurante El Chivero S.A. de C.V.,Angel Veral 328 Altamira,San Luis Potosi,SLP,78200,high
+135064,Restaurante El Chivero S.A. de C.V.,Angel Veral 328 Altamira,San Luis Potosi,SLP,62320,high
+135065,El angel Restaurante,Emiliano Zapata No. 825 Tlaltenongo,San Luis Potosi,SLP,78000,high
+135065,El angel Restaurante,Industrias 908 Valle Dorado,San Luis Potosi,SLP,78390,high
+135065,El angel Restaurante,Tangamanga 7 Tangamanga,San Luis Potosi,SLP,62000,high
+135065,El angel Restaurante,Ignacio Aldama 300 Centro,San Luis Potosi,SLP,78310,high
+135065,El angel Restaurante,Soledad Sn Arboledas de Soledad,San Luis Potosi,SLP,78430,high
+135065,El angel Restaurante,De Guadalupe 460 San Miguelito,San Luis Potosi,SLP,62460,high
+135065,El angel Restaurante,Universidad 169,San Luis Potosi,SLP,78740,high
+135065,El angel Restaurante,Lateral Salvador Nava Martinez 3145,San Luis Potosi,SLP,78430,high
+135065,El angel Restaurante,Himno Nacional 2104 Tangamanga,San Luis Potosi,SLP,78280,high
+135065,El angel Restaurante,Himno nacional esq. Blvd. Juarez,San Luis Potosi,SLP,78290,high
+135065,El angel Restaurante,tampico,San Luis Potosi,SLP,78433,high
+135065,El angel Restaurante,Jesus Goytortua 390 Tangamanga,San Luis Potosi,SLP,78396,high
+135066,Restaurante Guerra,20 de Noviembre 1817 Tlaxcala,San Luis Potosi,SLP,78038,high
+135073,Restaurante Bar El Gallinero,Costado Sur Central Camionera Km 2,San Luis Potosi,SLP,78280,high
+135073,Restaurante Bar El Gallinero,Villa de Pozos 192 Villa de Pozos,San Luis Potosi,SLP,78038,high
+135073,Restaurante Bar El Gallinero,Pascual M. Hernandez 210 Centro,San Luis Potosi,SLP,78269,high
+135073,Restaurante Bar El Gallinero,Cordillera de Los Alpes 675 Loma Verde,San Luis Potosi,SLP,62290,high
+135073,Restaurante Bar El Gallinero,Pascual M. Hernandez 210 Centro,San Luis Potosi,SLP,78280,high
+135073,Restaurante Bar El Gallinero,Pascual M. Hernandez 210 Centro,San Luis Potosi,SLP,78430,high
+135073,Restaurante Bar El Gallinero,Pascual M. Hernandez 210 Centro,San Luis Potosi,SLP,78270,high
+135073,Restaurante Bar El Gallinero,Pascual M. Hernandez 210 Centro,San Luis Potosi,SLP,78214,high
+135073,Restaurante Bar El Gallinero,cd. mier,San Luis Potosi,SLP,87018,high
+135073,Restaurante Bar El Gallinero,Zaragoza entre Francisco Zarco y Lopez Velarde,San Luis Potosi,SLP,78210,high
+135073,Restaurante Bar El Gallinero,Villa de Pozos 4497 Villa de Pozos,San Luis Potosi,SLP,78200,high
+135073,Restaurante Bar El Gallinero,Pascual M. Hernandez 210 Centro,San Luis Potosi,SLP,78421,high
+135073,Restaurante Bar El Gallinero,Pascual M. Hernandez 210 Centro,San Luis Potosi,SLP,78399,high
+135073,Restaurante Bar El Gallinero,Venustiano Carranza 560 Centro,San Luis Potosi,SLP,74000,high
+135073,Restaurante Bar El Gallinero,Constitucion 200 Centro,San Luis Potosi,SLP,62170,high
+135073,Restaurante Bar El Gallinero,Cordillera de Los Alpes 160 Lomas 2 Seccion,San Luis Potosi,SLP,62250,high
+135073,Restaurante Bar El Gallinero,Venustiano Carranza 719 Centro,San Luis Potosi,SLP,78000,high
+135073,Restaurante Bar El Gallinero,circuito oriente esq. carretera 57,San Luis Potosi,SLP,62000,high
+135074,Restaurante la Parroquia Potosina,Venustiano Carranza 303 Centro,San Luis Potosi,SLP,78349,high
+135074,Restaurante la Parroquia Potosina,Venustiano Carranza 303 Centro,San Luis Potosi,SLP,78399,high
+135074,Restaurante la Parroquia Potosina,Venustiano Carranza 303 Centro,San Luis Potosi,SLP,78396,high
+135074,Restaurante la Parroquia Potosina,Venustiano Carranza 303 Centro,San Luis Potosi,SLP,78395,high
+135074,Restaurante la Parroquia Potosina,Venustiano Carranza 303 Centro,San Luis Potosi,SLP,78421,high
+135074,Restaurante la Parroquia Potosina,Venustiano Carranza 303 Centro,San Luis Potosi,SLP,78310,high
+135074,Restaurante la Parroquia Potosina,Venustiano Carranza 303 Centro,San Luis Potosi,SLP,78390,high
+135074,Restaurante la Parroquia Potosina,Venustiano Carranza 303 Centro,San Luis Potosi,SLP,78280,high
+135074,Restaurante la Parroquia Potosina,Venustiano Carranza 303 Centro,San Luis Potosi,SLP,78290,high
+135076,Restaurante Pueblo Bonito,Mexico 2015 Providencia,San Luis Potosi,SLP,78395,high
+135079,Koye Sushi,Nereo Rodriguez Barragan 450 E Centro,San Luis Potosi,SLP,78000,high
+135080,los Toneles,Cordillera de Los Alpes 675 Loma Verde,San Luis Potosi,SLP,62250,high
+135080,los Toneles,Cordillera de Los Alpes 160 Lomas 2 Seccion,San Luis Potosi,SLP,62170,high
+135080,los Toneles,Ignacio Allende 785 Centro,San Luis Potosi,SLP,78349,high
+135080,los Toneles,De La Estrella 2005 Estrella de Oriente,San Luis Potosi,SLP,62790,high
+135080,los Toneles,General Mariano Arista 1205 Barrio de Tequisquiap,San Luis Potosi,SLP,78250,high
+135080,los Toneles,Libramiento Burgos Colonia Las Animas,San Luis Potosi,SLP,78433,high
+135080,los Toneles,Costado Sur Central Camionera Km 2,San Luis Potosi,SLP,62290,high
+135080,los Toneles,Guajardo Sn San Luis Potosi Centro,San Luis Potosi,SLP,78269,high
+135080,los Toneles,Interior Internado Palmira SN,San Luis Potosi,SLP,78395,high
+135080,los Toneles,Julian de Los Reyes 400 Centro,San Luis Potosi,SLP,78399,high
+135080,los Toneles,Himno Nacional 100 Avenida,San Luis Potosi,SLP,78270,high
+135080,los Toneles,La Pradera,San Luis Potosi,SLP,78421,high
+132862,La Posada del Virrey,Venustiano Carranza 1625 Jardin,victoria,San Luis Potosi,62320,high
+132862,La Posada del Virrey,Universidad 169,slp,San Luis Potosi,62250,high
+132862,La Posada del Virrey,Venustiano Carranza 303 Centro,San Luis Potosi,San Luis Potosi,64000,high
+132862,La Posada del Virrey,Venustiano Carranza 1809 C Polanco,victoria ,San Luis Potosi,62460,high
+132862,La Posada del Virrey,sevilla y olmedo 715 a,s.l.p.,San Luis Potosi,79300,high
+132862,La Posada del Virrey,tampico,San Luis Potosi,San Luis Potosi,62000,high
+132862,La Posada del Virrey,Rio Papaloapan 265 Lomas de San Luis (3),Cuernavaca,San Luis Potosi,78430,high
+132862,La Posada del Virrey,Satelite 606 Satelite,s.l.p,San Luis Potosi,78740,high
+132862,La Posada del Virrey,Rio Mayo 17 Vista Hermosa,Cd. Victoria,Morelos,78399,high
+132862,La Posada del Virrey,Rio Mayo Colonia Vista Hermosa Esq. Rio Balsas,Ciudad Victoria,S.L.P.,78421,high
+132862,La Posada del Virrey,venustiano carranza,Soledad,San Luis Potosi,62290,high
+132862,La Posada del Virrey,Soledad Sn Arboledas de Soledad,san luis potos,San Luis Potosi,87018,high
+132862,La Posada del Virrey,Venustiano Carranza 2175 Jardin,San Luis Potosi,San Luis Potosi,62790,high
+132862,La Posada del Virrey,Tangamanga 7 Tangamanga,san luis potosi ,San Luis Potosi,62170,high
+132862,La Posada del Virrey,Santos Degollado 745 los Alamitos,Jiutepec,San Luis Potosi,78433,high
+132866,Chaires,Av. V. Carranza,San Luis Potosi,Tamaulipas,62320,medium
+132866,Chaires,Av. Carranza 830,Soledad,Morelos,78421,medium
+132866,Chaires,Av. Coral,victoria,S.L.P.,62000,medium
+132866,Chaires,Av. Saan Luis enttre moctezuma y salinas,San Luis Potosi,San Luis Potosi,62250,medium
+132866,Chaires,Av. de los Pintores,victoria ,san luis potos,62170,medium
+132866,Chaires,av. seminario,San Luis Potosi,SLP,62290,medium
+132613,carnitas_mata,Pascual M. Hernandez 210 Centro,victoria,Tamaulipas,87018,medium
+132613,carnitas_mata,lic. Emilio portes gil,victoria,Tamaulipas,78740,medium
+132613,carnitas_mata,lic. Emilio portes gil,victoria,Tamaulipas,62000,medium
+132869,Dominos Pizza,Julian de Los Reyes 400 Centro,San Luis Potosi,San Luis Potosi,62790,medium
+132869,Dominos Pizza,La Pradera,San Luis Potosi,San Luis Potosi,64000,medium
+132869,Dominos Pizza,Jesus Goytortua 390 Tangamanga,San Luis Potosi,San Luis Potosi,87018,medium
+132872,Pizzeria Julios,De Guadalupe 460 San Miguelito,s.l.p,mexico,64000,medium
+132872,Pizzeria Julios,20 de Noviembre 1817 Tlaxcala,s.l.p,mexico,62250,medium
+132872,Pizzeria Julios,524 Soledad de Graciano Sanchez,Jiutepec,San Luis Potosi,87018,medium
+132872,Pizzeria Julios,1a. de Lozada 1,s.l.p,mexico,62170,medium
+132872,Pizzeria Julios,De La Estrella 2005 Estrella de Oriente,s.l.p,mexico,74000,medium
+132872,Pizzeria Julios,40 Norte Civac 1RA. Seccion,Cuernavaca,san luis potos,79300,medium
+132626,la perica hamburguesa,avenida salvador montiel ,Jiutepec,tamaulipas,78280,medium
+132626,la perica hamburguesa,calle emilio portes gil,s.l.p,tamaulipas,78290,medium
+132626,la perica hamburguesa,Camino a Simon Diaz 155 Centro,san luis potos,tamaulipas,78349,medium
+132626,la perica hamburguesa,cd. mier,san luis potosi ,tamaulipas,78740,medium
+132626,la perica hamburguesa,Calle Mezquite Fracc Framboyanes,s.l.p.,tamaulipas,78310,medium
+132626,la perica hamburguesa,carr. mexico,San Luis Potosi,tamaulipas,78433,medium
+132922,cafe punta del cielo,36 Sur Civac,Ciudad Victoria,S.L.P.,78038,medium
+132922,cafe punta del cielo,20 de Noviembre 1817 Tlaxcala,Cd. Victoria,Morelos,78000,medium
+132922,cafe punta del cielo,1a. de Lozada 1,Cd Victoria,mexico,74000,medium
+132925,el pueblito,Emiliano Zapata Col. Tres de Mayo,Cd. Victoria,Morelos,78038,medium
+132925,el pueblito,Emiliano Zapata No. 825 Tlaltenongo,Ciudad Victoria,S.L.P.,78200,medium
+132925,el pueblito,Domingo 10 711 El Empleado,Cd Victoria,mexico,78000,medium
+134987,Chilis Cuernavaca,Rio Mayo Colonia Vista Hermosa Esq. Rio Balsas,Cuernavaca,Morelos,62290,medium
+134996,Sanborns Casa Piedra,Lomas del Mirador,Cuernavaca,Morelos,62170,medium
+134996,Sanborns Casa Piedra,Lomas del Mirador,Cuernavaca,Morelos,62000,medium
+134996,Sanborns Casa Piedra,Lomas del Mirador,Cuernavaca,Morelos,62250,medium
+135000,Restaurant los Pinos,Santos Degollado 745 los Alamitos,Cuernavaca,Morelos,78250,medium
+135000,Restaurant los Pinos,Rio Papaloapan 265 Lomas de San Luis (3),Cuernavaca,Morelos,78240,medium
+135000,Restaurant los Pinos,Satelite 606 Satelite,Cuernavaca,Morelos,78269,medium
+135001,Vips,Emiliano Zapata No. 825 Tlaltenongo,Cuernavaca,Morelos,62170,medium
+135001,Vips,Emiliano Zapata No. 825 Tlaltenongo,Cuernavaca,Morelos,79300,medium
+135001,Vips,Emiliano Zapata No. 825 Tlaltenongo,Cuernavaca,Morelos,78433,medium
+135001,Vips,Emiliano Zapata No. 825 Tlaltenongo,Cuernavaca,Morelos,78430,medium
+135001,Vips,Emiliano Zapata No. 825 Tlaltenongo,Cuernavaca,Morelos,78740,medium
+135001,Vips,Emiliano Zapata No. 825 Tlaltenongo,Cuernavaca,Morelos,87018,medium
+132954,la parroquia,De Guadalupe 460 San Miguelito,san luis potosi,san luis potosi,78290,medium
+132954,la parroquia,De La Estrella 2005 Estrella de Oriente,san luis potosi,san luis potosi,78310,medium
+132954,la parroquia,Rayon sn col. Centro,san luis potosi,san luis potosi,78038,medium
+132954,la parroquia,Emiliano Zapata Col. Tres de Mayo,san luis potosi,san luis potosi,78433,medium
+132954,la parroquia,Paseo de las Fuentes,san luis potosi,san luis potosi,64000,medium
+132954,la parroquia,Domingo 10 711 El Empleado,san luis potosi,san luis potosi,78349,medium
+132954,la parroquia,Pascual M. Hernandez 240,san luis potosi,san luis potosi,62790,medium
+132954,la parroquia,Ricardo B. Anaya,san luis potosi,san luis potosi,78200,medium
+132954,la parroquia,Rio Mayo 17 Vista Hermosa,san luis potosi,san luis potosi,78214,medium
+132954,la parroquia,Plaza del Carmen,san luis potosi,san luis potosi,74000,medium
+132954,la parroquia,r.b. anaya esq. florencia,san luis potosi,san luis potosi,78000,medium
+132954,la parroquia,Ricardo B. Anaya 2700 Estrella de Oriente,san luis potosi,san luis potosi,78210,medium
+132706,Gorditas Dona Tota,Industrias 908 Valle Dorado,Cd. Victoria,SLP,78396,medium
+132706,Gorditas Dona Tota,Ignacio Allende 785 Centro,Cd. Victoria,S.L.P.,78395,medium
+132706,Gorditas Dona Tota,Jesus Goytortua 390 Tangamanga,Cd. Victoria,mexico,78421,medium
+132706,Gorditas Dona Tota,Ignacio Aldama 300 Centro,Cd. Victoria,Morelos,78390,medium
+132706,Gorditas Dona Tota,Interior Internado Palmira SN,Cd. Victoria,Tamaulipas,78399,medium
+132706,Gorditas Dona Tota,Himno nacional esq. Blvd. Juarez,victoria ,mexico,78349,medium
+135011,Los Vikingos,Emiliano Zapata No. 825 Tlaltenongo,Jiutepec,Morelos,62290,medium
+135011,Los Vikingos,esquina santos degollado y leon guzman,Jiutepec,Morelos,62320,medium
+135011,Los Vikingos,Estatuto Juridico 1040 Burocratas,Jiutepec,Morelos,62460,medium
+135016,Arrachela Grill,General Mariano Arista 1205 Barrio de Tequisquiap,Cuernavaca,Morelos,78290,medium
+135016,Arrachela Grill,Francisco I. Madero 215,Cuernavaca,Morelos,62790,medium
+135016,Arrachela Grill,frente al tecnologico,Cuernavaca,Morelos,78280,medium
+135018,El Oceano Dorado,Julian de Los Reyes 400 Centro,Cuernavaca,Morelos,78000,medium
+135018,El Oceano Dorado,Interior Internado Palmira SN,Cuernavaca,Morelos,64000,medium
+135018,El Oceano Dorado,Jesus Goytortua 390 Tangamanga,Cuernavaca,Morelos,74000,medium
+135018,El Oceano Dorado,Himno Nacional 2104 Tangamanga,Cuernavaca,Morelos,78433,medium
+135018,El Oceano Dorado,Himno nacional esq. Blvd. Juarez,Cuernavaca,Morelos,78740,medium
+135018,El Oceano Dorado,Ignacio Allende 785 Centro,Cuernavaca,Morelos,62790,medium
+135018,El Oceano Dorado,Himno Nacional 100 Avenida,Cuernavaca,Morelos,78349,medium
+135018,El Oceano Dorado,Industrias 908 Valle Dorado,Cuernavaca,Morelos,62790,medium
+135018,El Oceano Dorado,Guajardo Sn San Luis Potosi Centro,Cuernavaca,Morelos,78310,medium
+135018,El Oceano Dorado,Lateral Salvador Nava Martinez 3145,Cuernavaca,Morelos,78200,medium
+135018,El Oceano Dorado,La Pradera,Cuernavaca,Morelos,78038,medium
+135018,El Oceano Dorado,Ignacio Aldama 300 Centro,Cuernavaca,Morelos,79300,medium
+132717,tortas hawai,1a. de Lozada 1,Cd Victoria,mexico,78433,medium
+132717,tortas hawai,36 Sur Civac,Ciudad Victoria,S.L.P.,78740,medium
+132717,tortas hawai,20 de Noviembre 1817 Tlaxcala,Cd. Victoria,Morelos,62000,medium
+135025,El Rincon de San Francisco,Av. V. Carranza,San Luis Potosi,SLP,78399,medium
+135025,El Rincon de San Francisco,Av. de los Pintores,San Luis Potosi,SLP,78269,medium
+135025,El Rincon de San Francisco,Mexico 2015 Providencia,San Luis Potosi,SLP,87018,medium
+135025,El Rincon de San Francisco,avenida salvador montiel ,San Luis Potosi,SLP,78399,medium
+135025,El Rincon de San Francisco,Lomas del Mirador,San Luis Potosi,SLP,79300,medium
+135025,El Rincon de San Francisco,Av. Saan Luis enttre moctezuma y salinas,San Luis Potosi,SLP,78270,medium
+135025,El Rincon de San Francisco,lic. Emilio portes gil,San Luis Potosi,SLP,78740,medium
+135025,El Rincon de San Francisco,av. seminario,San Luis Potosi,SLP,78280,medium
+135025,El Rincon de San Francisco,calle emilio portes gil,San Luis Potosi,SLP,78421,medium
+135025,El Rincon de San Francisco,Camino a Simon Diaz 155 Centro,San Luis Potosi,SLP,78433,medium
+135025,El Rincon de San Francisco,Calle Mezquite Fracc Framboyanes,San Luis Potosi,SLP,78430,medium
+135025,El Rincon de San Francisco,Mexico 810 Centro,San Luis Potosi,SLP,62000,medium
+132723,Gordas de morales,Nereo Rodriguez Barragan 450 E Centro,Soledad,mexico,78220,medium
+132723,Gordas de morales,NICOLAS ZAPATA 300,victoria,mexico,78240,medium
+132723,Gordas de morales,1a. de Lozada 1,Cd Victoria,San Luis Potosi,79300,medium
+132723,Gordas de morales,20 de Noviembre 1817 Tlaxcala,Cd. Victoria,San Luis Potosi,87018,medium
+132723,Gordas de morales,Munoz Sn Centro,slp,Morelos,78214,medium
+132723,Gordas de morales,Miguel Barragan 46 Centro,san luis potosi ,mexico,78210,medium
+135027,Restaurant Orizatlan,Anahuac 805,san luis potosi ,mexico,62000,medium
+135027,Restaurant Orizatlan,Mexico 810 Centro,Soledad,Morelos,78421,medium
+135027,Restaurant Orizatlan,Estatuto Juridico 1040 Burocratas,San Luis Potosi,SLP,62790,medium
+135027,Restaurant Orizatlan,Federal Mexico - Acapulco 10 3 de Mayo,San Luis Potosi,SLP,62790,medium
+135027,Restaurant Orizatlan,Alhondiga 62 Centro,San Luis Potosi,Tamaulipas,78433,medium
+135027,Restaurant Orizatlan,Av. Carranza 830,Soledad,Morelos,79300,medium
+135027,Restaurant Orizatlan,esquina santos degollado y leon guzman,San Luis Potosi,SLP,79300,medium
+135027,Restaurant Orizatlan,Mexico 2015 Providencia,slp,mexico,78399,medium
+135027,Restaurant Orizatlan,Miguel Barragan 46 Centro,victoria,S.L.P.,78430,medium
+135027,Restaurant Orizatlan,Lomas del Mirador,san luis potosi ,mexico,78396,medium
+135027,Restaurant Orizatlan,Francisco I. Madero 145 Centro,San Luis Potosi,SLP,64000,medium
+135027,Restaurant Orizatlan,Angel Veral 328 Altamira,slp,mexico,78740,medium
+135028,La Virreina,Av. Carranza 830,San Luis Potosi,SLP,78310,medium
+135028,La Virreina,Av. Carranza 830,San Luis Potosi,SLP,64000,medium
+135028,La Virreina,Av. Carranza 830,San Luis Potosi,SLP,62000,medium
+135028,La Virreina,Av. Carranza 830,San Luis Potosi,SLP,62790,medium
+135028,La Virreina,Av. Carranza 830,San Luis Potosi,SLP,62460,medium
+135028,La Virreina,Av. Carranza 830,San Luis Potosi,SLP,78349,medium
+135028,La Virreina,Av. Carranza 830,San Luis Potosi,SLP,78290,medium
+135028,La Virreina,Av. Carranza 830,San Luis Potosi,SLP,62250,medium
+135028,La Virreina,Av. Carranza 830,San Luis Potosi,SLP,62290,medium
+135028,La Virreina,Av. Carranza 830,San Luis Potosi,SLP,62170,medium
+135028,La Virreina,Av. Carranza 830,San Luis Potosi,SLP,62320,medium
+135028,La Virreina,Av. Carranza 830,San Luis Potosi,SLP,78280,medium
+135030,Preambulo Wifi Zone Cafe,carr. mexico,San Luis Potosi,SLP,79300,medium
+135030,Preambulo Wifi Zone Cafe,Camino a Simon Diaz 155 Centro,San Luis Potosi,SLP,78740,medium
+135030,Preambulo Wifi Zone Cafe,avenida salvador montiel ,San Luis Potosi,SLP,78430,medium
+135030,Preambulo Wifi Zone Cafe,avenida hivno nacional,San Luis Potosi,SLP,78421,medium
+135030,Preambulo Wifi Zone Cafe,Calle Mezquite Fracc Framboyanes,San Luis Potosi,SLP,62000,medium
+135030,Preambulo Wifi Zone Cafe,calle emilio portes gil,San Luis Potosi,SLP,78433,medium
+135032,Cafeteria y Restaurant El Pacifico,Villa de Pozos 4497 Villa de Pozos,San Luis Potosi,SLP,79300,medium
+135032,Cafeteria y Restaurant El Pacifico,Tangamanga 7 Tangamanga,San Luis Potosi,SLP,78310,medium
+135032,Cafeteria y Restaurant El Pacifico,Constitucion 200 Centro,San Luis Potosi,SLP,62790,medium
+135032,Cafeteria y Restaurant El Pacifico,Venustiano Carranza 303 Centro,San Luis Potosi,SLP,78421,medium
+135032,Cafeteria y Restaurant El Pacifico,Constitucion 200 Centro,San Luis Potosi,SLP,64000,medium
+135032,Cafeteria y Restaurant El Pacifico,Venustiano Carranza 719 Centro,San Luis Potosi,SLP,78433,medium
+135032,Cafeteria y Restaurant El Pacifico,Venustiano Carranza 1625 Jardin,San Luis Potosi,SLP,78395,medium
+135032,Cafeteria y Restaurant El Pacifico,sevilla y olmedo 715 a,San Luis Potosi,SLP,78270,medium
+135032,Cafeteria y Restaurant El Pacifico,Venustiano Carranza 2175 Jardin,San Luis Potosi,SLP,78399,medium
+135032,Cafeteria y Restaurant El Pacifico,Constitucion 200 Centro,San Luis Potosi,SLP,78214,medium
+135032,Cafeteria y Restaurant El Pacifico,Villa de Pozos 192 Villa de Pozos,San Luis Potosi,SLP,78740,medium
+135032,Cafeteria y Restaurant El Pacifico,Venustiano Carranza 560 Centro,San Luis Potosi,SLP,78430,medium
+135032,Cafeteria y Restaurant El Pacifico,Venustiano Carranza 1809 C Polanco,San Luis Potosi,SLP,78396,medium
+135032,Cafeteria y Restaurant El Pacifico,tampico,San Luis Potosi,SLP,78290,medium
+135032,Cafeteria y Restaurant El Pacifico,Zaragoza entre Francisco Zarco y Lopez Velarde,San Luis Potosi,SLP,87018,medium
+135032,Cafeteria y Restaurant El Pacifico,Universidad 169,San Luis Potosi,SLP,78349,medium
+135032,Cafeteria y Restaurant El Pacifico,venustiano carranza,San Luis Potosi,SLP,78390,medium
